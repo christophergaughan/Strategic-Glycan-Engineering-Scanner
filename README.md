@@ -15,7 +15,7 @@ glycan engineering opportunities before MD validation.
 - Requires MD simulation follow-up
 - Sequence-only analysis (structure integration in progress)
 
-**Citation:** If you use this tool, please cite: [your paper/preprint when available]
+**Citation:** If you use this tool, please cite: [paper/preprint when available]
 
 ---
 
